@@ -1,0 +1,3 @@
+connectionstring Mongo : 
+
+mongodb+srv://cluster0:cluster0@cluster0-ghejh.mongodb.net/test?retryWrites=true&w=majority
